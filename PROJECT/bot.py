@@ -7,8 +7,8 @@ from aiogram.types import Message
 import requests
 
 
-TOKEN = '7826581135:AAHN7KKNPZXE4CB5sgzQRRDZMZbpdfvz2IE'
-AI_TOKEN = 'io-v2-eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCJ9.eyJvd25lciI6IjZkNTUwZDEwLWI3ZjAtNGQxYi1hOTdkLTYxZTMzZTFmMTY1ZCIsImV4cCI6NDg5OTg2MDc4NX0.YcwslpGZ_JeBb-BWDuxjhkXixmvgxGHN1Bgz453Q2spHpsHIX3h5JYJuHy54C4b2iip-WkWSFHCCnzZrArqqDw' # ⁡⁢⁣⁣ПОМЕНЯЙТЕ ТОКЕН ИИ НА ВАШ⁡
+TOKEN = '' ПОМЕНЯЙТЕ ТОКЕН БОТА НА ВАШ
+AI_TOKEN = '' # ⁡⁢⁣⁣ПОМЕНЯЙТЕ ТОКЕН ИИ НА ВАШ⁡
 
 url = "https://api.intelligence.io.solutions/api/v1/chat/completions"
 headers = {
