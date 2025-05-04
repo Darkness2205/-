@@ -7,7 +7,7 @@ from aiogram.types import Message
 import requests
 
 
-TOKEN = '' ПОМЕНЯЙТЕ ТОКЕН БОТА НА ВАШ
+TOKEN = '' # ПОМЕНЯЙТЕ ТОКЕН БОТА НА ВАШ
 AI_TOKEN = '' # ⁡⁢⁣⁣ПОМЕНЯЙТЕ ТОКЕН ИИ НА ВАШ⁡
 
 url = "https://api.intelligence.io.solutions/api/v1/chat/completions"
